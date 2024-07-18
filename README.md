@@ -2,22 +2,54 @@
 
 <img src="https://github.com/MaratCantary/spotify-web-player/blob/main/spot.png"/>
 
-***Spotify has been using web technologies for a long time. Before tools like Electron became a reality for building hybrid applications, Spotify started using Chromium Embedded Framework (CEF) in 2011 to embed web views on the desktop application. This made it easier to build and iterate on different parts of the application without having to perform full releases***
+Spotify, the leading streaming media platform, offers two plans for users: Spotify Free and Spotify Premium. All users can access its complete music library with over 100 million songs including a wide variety of audio catalogs for digital entertainment. Besides, both the Spotify Web Player and Spotify app are compatible with Windows, macOS, Linux, iOS, Android, and Windows phones. With robust features such as the downloading feature, mix feature, curated recommendations, etc., Spotify always goes viral among music lovers.
 
-Spotify’s web player was released in 2012 and complemented the experience on desktop devices. It made it possible for users to play music from Spotify as quickly as possible, without needing to download and install any application
+Yet, Spotify is not available in some countries and regions of the world currently. Moreover, to keep the effectiveness of study or work, some schools and workplaces have blocked Spotify. So, if you'd like to play Spotify music but it's unavailable in your country or region and even school and workplaces, the best way could be to get Spotify unblocked for school and anywhere for unlimited playback.
 
-The architecture of the web player followed the same approach as the desktop application. The views were isolated from each other using iframes, and this allowed the teams to iterate on and release them without interfering with the rest of the application
+#1. Use Spotify Downloader
+Changing those settings above might be a bit tricky. Alternatively, you could try using Spotify Music Converter. This NoteBurner tool lets you download all your Spotify content as MP3, AAC, or other music file types. Once downloaded, you'll have all your Spotify songs saved on your device, so you can listen to them anywhere without any restrictions.
 
-**The simpler and faster web player outperformed the old web player in all key metrics**
+Tips: This is the best way to let Spotify unblocked for school even without a VPN.
 
-The new Web Player is in line with the overall Spotify look and feel and is built on HTML5 standards. It drops Flash in favor of Encrypted Media Extensions (EME) for music playback, which is supported natively by most modern browsers. It is fast, even on spotty connections, responsive and we have focused on making it enjoyable to use
+Part 1. Why is Spotify Blocked in School?
+Schools block Spotify and similar music apps to maintain smooth internet, minimize distractions, control online content, ensure network safety, and avoid legal issues.
 
-The architecture is based on React + Redux, which has made it easier for us to share components between the views, to have a clear data flow and to improve debuggability and testability. Although the components are not shared with other Spotify clients, we see a trend in other Spotify web development teams who are also embracing a similar approach to building web experiences
+They use network tricks like blocking specific websites or managing internet speed. Whether Spotify is allowed varies by school, with some blocking it completely for better focus and faster internet, while others permit it to aid relaxation and learning. Ultimately, schools aim to create a safe and productive learning environment for students.
 
-Making the decision to embrace well-known open-source solutions and avoiding using Spotify custom libraries allowed us to onboard new developers quickly. This has led to numerous contributions from web developers from all over the company
+Part 2. How to Fix Spotify Blocked in School?
+If your school's internet is stopping you from using Spotify, don't worry, here are some ways you can still listen to music:
 
-Having a simpler architecture allowed us to experiment faster and add features that didn’t exist in the old Web Player, like Daily Mixes, video and audio podcasts, and Connect. On top of that, we were also able to build fast CI/CD pipelines. Now with every commit the latest version of the web player is reaching our users immediately. Finally, we have a web player leveraging today’s technologies. As an example, we added support for Progressive Web App on Chrome OS, so the web player is installed and run as a regular desktop application
+#2. Use Spotify Web Player
+You can try accessing the Spotify web player instead of downloading the app. This allows you to listen to music without the need to install anything on the computer. Since it goes through a web browser, it might bypass some restrictions that the school has placed on downloading programs. Plus, you don't need administrator privileges to use the web player, making it the most convenient option for listening to Spotify music at school.
 
-**more detailed description, unlock keys and much more download in the file** 👇🏻
+#3. Change Internet Connection to Unblocked Spotify
+If your school blocks Spotify on its network, you can try using alternative internet connections to bypass this restriction:
 
-<img src="https://github.com/MaratCantary/spotify-web-player/blob/main/dl.png"/>
+1) Use your smartphone's data plan to unblock Spotify. Simply turn off Wi-Fi on your device and switch to mobile data. This allows you to listen to music using Spotify's mobile app without relying on the school's Wi-Fi network.
+
+2) Connect to Personal Hotspot. If your smartphone supports it, you can enable a personal hotspot and connect your computer or other devices to it. This creates a separate internet connection using your phone's data, allowing you to access Spotify as you normally would.
+
+#4. Change Proxy Servers to Get Spotify Unblocked
+Changing the proxy settings on your Windows, Mac, or Chromebook computer can also let you get Spotify unblocked at school. This means sending your internet connection through a different path to get around the restrictions set by your school's network. Just make sure you follow your school's rules and only do this for the right reasons.
+
+Tips: You can also get some Spotify unblocked Google sites from glitch.com. Search "Proxy" there and you should find a simpler tool to change proxy sever in clicks.
+
+#5. Use a Different DNS Service to Get Unblocked Spotify
+DNS (Domain Name System) helps your computer find websites by translating their names into numbers. Schools block services like Spotify by adjusting these settings. So changing your computer's DNS, you might be then able to get around these blocks and access Spotify.
+
+For Windows Computer:
+Step 1 Navigate to "Control Panel > Network and Internet > Network and Sharing Center".
+
+Step 2 Click on "Change adapter settings" on the left.
+
+Step 3 Right-click your active network connection and select "Properties".
+
+Step 4 Scroll down and select "Internet Protocol Version 4 (TCP/IPv4)", then click "Properties".
+
+Step 5 Select "Use the following DNS server addresses" and enter the DNS server addresses you want to use. Then click "OK".
+
+#6. Use a VPN
+A VPN is like a secret tunnel that lets you access Spotify from anywhere, even if it's blocked. When you connect to a VPN, it hides your location, so you can listen to Spotify unblocked at school.
+
+Just pick a good VPN service, connect to a server, and you're all set to enjoy your music. Make sure to choose one that's fast, secure, and has servers in countries where Spotify works.
+
