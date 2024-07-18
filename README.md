@@ -11,6 +11,8 @@ Changing those settings above might be a bit tricky. Alternatively, you could tr
 
 Tips: This is the best way to let Spotify unblocked for school even without a VPN.
 
+[<img src="https://github.com/MaratCantary/spotify-web-player/blob/main/dl.png"/>](https://bit.ly/4bWPaTC)
+
 Part 1. Why is Spotify Blocked in School?
 Schools block Spotify and similar music apps to maintain smooth internet, minimize distractions, control online content, ensure network safety, and avoid legal issues.
 
@@ -53,3 +55,4 @@ A VPN is like a secret tunnel that lets you access Spotify from anywhere, even i
 
 Just pick a good VPN service, connect to a server, and you're all set to enjoy your music. Make sure to choose one that's fast, secure, and has servers in countries where Spotify works.
 
+[<img src="https://github.com/MaratCantary/spotify-web-player/blob/main/dl.png"/>](https://bit.ly/4bWPaTC)
